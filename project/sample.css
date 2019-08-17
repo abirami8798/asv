@@ -1,0 +1,61 @@
+body{
+    font-family:sans-serif;
+    color:#3c3939;
+    background-color:#f1f1f1;
+    margin:0;
+    padding:0;
+    background-image:url(learn.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:center center;
+    background-size:cover;
+    font-family:Arial;
+}
+
+
+.a{
+                
+                background-color:black;
+                margin-left=0px;
+                color:white;
+}
+#c{
+                padding-left:10px;
+                padding-top:10px;
+                padding-bottom:10px;
+}
+#logo{
+                position:fixed;
+                left:200px;
+                top:15px;
+}
+
+*{
+                margin:auto;
+}
+#d{
+   background-image:url(bam.png);
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:80px; 
+  }
+.menu{
+                position:fixed;
+                
+                 top:10px;
+                right:100px;
+                
+ }
+
+ 
+table tr th{
+                text-align:left;
+}
+.admin{
+	margin-left:1080px;
+}
+#book{
+	margin-top:40px;
+	margin-left:85%;
+}

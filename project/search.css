@@ -1,0 +1,64 @@
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 60%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  margin-left:250px;
+}
+
+body{
+	margin:0;
+    padding:0;
+    background-image:url(search.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:center center;
+    background-size:cover;
+
+	
+}
+table {
+  margin-left:250px;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  height:30%;
+  margin-top:100px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+
+h2{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+}
+.log{
+	background-color: #f1f1f1;
+    color: black;
+	margin-left:1600px;
+}
+.back {
+  background-color: #f1f1f1;
+  color: black;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
